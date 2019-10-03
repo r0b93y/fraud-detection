@@ -1,6 +1,7 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Project: Supervised Learning for Fraud Detection
-## Robert Heyse September 28, 2019
+Robert Heyse 
+September 28, 2019
 
 
 # Project Overview
